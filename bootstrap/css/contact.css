@@ -1,0 +1,22 @@
+main{
+	width: 75%;
+	margin: 0 auto;
+}
+.jumbotron{
+	height: 300px;
+	border: none;
+	border-radius: 0;
+}
+form{
+	margin: 20px auto;
+}
+.btn-primary {
+    background-size: 200% auto;
+}
+.send-button{
+	border-radius: 5px;
+	background-image: linear-gradient( to bottom right , rgba(10,10,10), rgba(114, 114, 11));
+	background-blend-mode: unset;
+	background-size: cover;
+	background-position: top;
+}
